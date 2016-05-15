@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # the regular ones
 alias 'plz'='sudo'
 alias 'fucking'='sudo apt-get'
