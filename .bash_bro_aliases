@@ -11,6 +11,7 @@ alias 'pewpew'='kill -9'
 alias 'dog'='cat'
 alias 'dude'='man'
 alias 'wtf'='git blame'
+alias 'lal'='ls -al'
 
 # because fuck you, that's why
 alias 'nano'='vim'
