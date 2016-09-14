@@ -1,9 +1,9 @@
 # the regular ones
 alias 'plz'='sudo'
 alias 'fucking'='sudo apt-get'
-alias 'fuck'='sudo "$BASH" -c "$(history -p !!)"'
 alias 'fuckoff'='fucking autoremove --purge'
 alias 'godlike'='sudo su'
+alias 'shit'='sudo "$BASH" -c "$(history -p !!)"'
 
 # utilities
 alias 'chrome'='google-chrome-stable'
